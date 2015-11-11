@@ -2,7 +2,7 @@
 
 A recent update to SteamCMD has resulted in there being some unusual communication between how TCAdmin 1 and SteamCMD operates. While TCAdmin's team themselves have issued an update (thus somewhat fixing the update) that update is only available to users that have an active license (which realistically is fair).
 
-However due to the fact that TCAdmin rarely receives updates (and potentially forking out hundreds - or thousands just for this fix) I've created this middleman system which replicates (and could be extended with extra functionality if you required).
+However due to the fact that TCAdmin rarely receives updates (and potentially forking out hundreds - or thousands just for this fix as each license, master and remote needs to be updated) I've created this middleman system which replicates (and could be extended with extra functionality if you required).
 
 
 ## Installing
